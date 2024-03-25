@@ -7,17 +7,17 @@ h1 {
   margin-left: 20px;
 }
 .Title {
-      font-family: Comic Sans MS, Jolly good Sans;
+      font-family: Jolly good Sans, Comic Sans MS;
       display: flex;
       justify-content: center;
     }
 p {
-      font-family: Comic Sans MS, Jolly good Sans;
+      font-family: Jolly good Sans, Comic Sans MS;
       display: flex;
       justify-content: center;
     }
     h2 {
-      font-family: Comic Sans MS, Jolly good Sans;
+      font-family: Jolly good Sans, Comic Sans MS;
       display: flex;
       justify-content: center;
     }
@@ -41,7 +41,7 @@ p {
     font-size: 50px;
 }
  .longh2 {
-  font-family: Comic Sans MS, Jolly good Sans;
+  font-family: Jolly good Sans, Comic Sans MS;
   display: flex;
   justify-content: end;
 }
