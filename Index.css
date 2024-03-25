@@ -1,0 +1,50 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: Black;
+  margin-left: 20px;
+}
+.Title {
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      display: flex;
+      justify-content: center;
+    }
+p {
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      display: flex;
+      justify-content: center;
+    }
+    h2 {
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      display: flex;
+      justify-content: center;
+    }
+
+.image1 {
+	margin: 10px 0 0 0;
+	border: 1px solid #000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.longh1 {
+  font-family: Jolly good Sans, Comic Sans MS;
+  font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+    color: rgb(247, 192, 90);
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+ .longh2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  display: flex;
+  justify-content: end;
+}
+body {
+  border: 10px solid rgb(0, 0, 0);
+  }
